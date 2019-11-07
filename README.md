@@ -1,3 +1,31 @@
+
+
+# 源码分析
+
+## 文件结构
+
+``` bash
+/Users/liufang/openSource/FunnyLiu/coffee
+├── index.js
+├── lib
+|  ├── coffee.js
+|  ├── rule.js
+|  ├── rule_error.js
+|  └── show.js
+```
+
+## 外部模块依赖
+
+请在： http://npm.broofa.com?q=coffee 查看
+
+## 内部模块依赖
+
+![img](./inner.svg)
+  
+## 逐个文件分析
+
+
+
 # Coffee
 
 Test command line on Node.js.
